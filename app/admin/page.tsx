@@ -1,5 +1,5 @@
 "use client";
-
+export const dynamic = 'force-dynamic';
 import { useState } from "react";
 import { useToast } from "@/lib/useToast";
 import Toast from "@/components/Toast";
